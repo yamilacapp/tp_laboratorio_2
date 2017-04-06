@@ -1,0 +1,6 @@
+d:\documents\visual studio 2012\Projects\TPractico1\TPractico1\bin\Debug\TPractico1.exe.config
+d:\documents\visual studio 2012\Projects\TPractico1\TPractico1\bin\Debug\TPractico1.exe
+d:\documents\visual studio 2012\Projects\TPractico1\TPractico1\bin\Debug\TPractico1.pdb
+d:\documents\visual studio 2012\Projects\TPractico1\TPractico1\obj\Debug\TPractico1.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\TPractico1\TPractico1\obj\Debug\TPractico1.exe
+d:\documents\visual studio 2012\Projects\TPractico1\TPractico1\obj\Debug\TPractico1.pdb

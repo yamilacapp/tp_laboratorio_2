@@ -1,0 +1,8 @@
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\bin\Debug\ProyectoPrincipal.exe.config
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\bin\Debug\ProyectoPrincipal.exe
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\bin\Debug\ProyectoPrincipal.pdb
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\bin\Debug\BibliotecaClases.dll
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\bin\Debug\BibliotecaClases.pdb
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.exe
+d:\documents\visual studio 2012\Projects\TPractico1\ProyectoPrincipal\obj\Debug\ProyectoPrincipal.pdb

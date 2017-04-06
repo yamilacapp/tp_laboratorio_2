@@ -1,0 +1,11 @@
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\bin\Debug\PlataformaV.exe.config
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\bin\Debug\PlataformaV.exe
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\bin\Debug\PlataformaV.pdb
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\bin\Debug\BibliotecaClases.dll
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\bin\Debug\BibliotecaClases.pdb
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\obj\Debug\PlataformaV.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\obj\Debug\PlataformaV.Form1.resources
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\obj\Debug\PlataformaV.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\obj\Debug\PlataformaV.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\obj\Debug\PlataformaV.exe
+d:\documents\visual studio 2012\Projects\TPractico1\PlataformaV\obj\Debug\PlataformaV.pdb

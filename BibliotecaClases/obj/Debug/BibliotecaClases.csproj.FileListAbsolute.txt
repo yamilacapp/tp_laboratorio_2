@@ -1,0 +1,5 @@
+d:\documents\visual studio 2012\Projects\TPractico1\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+d:\documents\visual studio 2012\Projects\TPractico1\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+d:\documents\visual studio 2012\Projects\TPractico1\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\TPractico1\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+d:\documents\visual studio 2012\Projects\TPractico1\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

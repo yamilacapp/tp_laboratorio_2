@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\bin\Release\BibliotecaClases.dll
+D:\Documents\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\bin\Release\BibliotecaClases.pdb
+D:\Documents\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\obj\Release\BibliotecaClases.dll
+D:\Documents\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\obj\Release\BibliotecaClases.pdb
+D:\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\bin\Release\BibliotecaClases.dll
+D:\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\bin\Release\BibliotecaClases.pdb
+D:\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\obj\Release\BibliotecaClases.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\obj\Release\BibliotecaClases.dll
+D:\Visual Studio 2012\Projects\TPractico1\BibliotecaClases\obj\Release\BibliotecaClases.pdb
